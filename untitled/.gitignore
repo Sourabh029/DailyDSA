@@ -27,3 +27,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+../StreamAPIPractice/.gitignore
+../StreamAPIPractice/.idea/
+../StreamAPIPractice/src/Main.java
+../StreamAPi/.gitignore
+
+
+*.idea/
+*.gitignore
